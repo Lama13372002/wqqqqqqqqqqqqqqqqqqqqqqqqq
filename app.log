@@ -1,0 +1,29 @@
+$ next start -H "0.0.0.0" -p "3000"
+  ▲ Next.js 14.2.26
+  - Local:        http://localhost:3000
+  - Network:      http://0.0.0.0:3000
+
+ ✓ Starting...
+ ✓ Ready in 833ms
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+Connected to database
+ ⚠ Unsupported metadata viewport is configured in metadata export in /. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /images/car-silhouette.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⨯ The requested resource isn't a valid image for /images/car-silhouette.png received text/html; charset=utf-8
+Fetching featured blog posts for home page
+Found 2 published blog posts
+ ⚠ Unsupported metadata viewport is configured in metadata export in /images/car-silhouette.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⨯ The requested resource isn't a valid image for /images/car-silhouette.png received text/html; charset=utf-8
+ ⚠ Unsupported metadata viewport is configured in metadata export in /images/reviews/avatar1.jpg. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /images/reviews/avatar2.jpg. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /images/reviews/avatar3.jpg. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⚠ Unsupported metadata viewport is configured in metadata export in /images/car-silhouette.png. Please move it to viewport export instead.
+Read more: https://nextjs.org/docs/app/api-reference/functions/generate-viewport
+ ⨯ The requested resource isn't a valid image for /images/car-silhouette.png received text/html; charset=utf-8
